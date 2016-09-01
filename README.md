@@ -1,0 +1,2 @@
+# snipcart-localization-repository
+deutsch
